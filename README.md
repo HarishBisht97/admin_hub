@@ -1,6 +1,6 @@
 # React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 
-LINK : https://admin-hub-dun.vercel.app/ecommerce
+LINK : https://eazify.netlify.app/
 
 <img width="1467" alt="image" src="https://github.com/user-attachments/assets/044b9e1e-6d84-4c2d-b26b-dc143616e8a9" />
 
